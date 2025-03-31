@@ -1,0 +1,74 @@
+Folder PATH listing for volume Windows
+Volume serial number is 00000060 2A34:73E7
+C:\USERS\FAMEN\ONEDRIVE\ESCRITORIO\SOFTWARE MULTIPLATAFORMA\SISTEMA-GESTION-PROYECTOS\SRC
++---app
+|       favicon.ico
+|       globals.css
+|       layout.js
+|       page.js
+|       page.module.css
+|       
++---components
+|       TaskItem.js
+|       
++---context
+|       AuthContext.js
+|       
++---hooks
++---layouts
++---pages
+|   |   dashboard.js
+|   |   login.js
+|   |   register.js
+|   |   _app.js
+|   |   
+|   +---api
+|   |   |   test-db.js
+|   |   |   
+|   |   +---auth
+|   |   |       login.js
+|   |   |       register.js
+|   |   |       
+|   |   +---projects
+|   |   |       create.js
+|   |   |       index.js
+|   |   |       [id].js
+|   |   |       
+|   |   +---tasks
+|   |   |   |   create.js
+|   |   |   |   delete.js
+|   |   |   |   index.js
+|   |   |   |   project.js
+|   |   |   |   update.js
+|   |   |   |   [id].js
+|   |   |   |   
+|   |   |   \---user
+|   |   |           [id].js
+|   |   |           
+|   |   \---users
+|   |           index.js
+|   |           [id].js
+|   |           
+|   +---proyectos
+|   |   |   nuevo.js
+|   |   |   [id].js
+|   |   |   
+|   |   \---[id]
+|   |           editar.js
+|   |           
+|   +---tareas
+|   |       index.js
+|   |       nuevo.js
+|   |       
+|   \---users
+|           edit.js
+|           index.js
+|           
++---services
++---styles
+|       global.css
+|       
+\---utils
+        auth.js
+        db.js
+        
